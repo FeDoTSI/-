@@ -1,1 +1,1 @@
-# -
+This is a starter scaffold reconstructed from screenshots only. It is not a complete working application.
